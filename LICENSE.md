@@ -18,6 +18,10 @@ This license ("License") applies to any code or resources (such as images) that 
 
 THE CODE AND RESOURCES PROVIDED UNDER THIS LICENSE ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THE LICENSE HOLDER DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSE HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE CODE OR RESOURCES COVERED BY THIS LICENSE.
 
+## License Information
+
+The Florrim Developer Group License can be found at: [Florrim Developer Group License](https://raw.githubusercontent.com/Florrim/license/main/LICENSE.md)
+
 ---
 
 By using or distributing the code covered by this License, you agree to the terms and conditions outlined above.
